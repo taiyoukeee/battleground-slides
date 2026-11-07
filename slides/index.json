@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "slides": [
   {
    "name": "A10",
@@ -12,6 +12,11 @@
     "file": "A10.pc.bin",
     "bytes": 1036832,
     "sha256": "f7aeb2166d01580ef18a7f878d28ed0645aae895b24c101b39b691d645585c6f"
+   },
+   "quest": {
+    "file": "A10.q8.bin",
+    "bytes": 518432,
+    "sha256": "d8a32caaeaa8920e2e10951e120c463c969241648adfec96d2f326b507852258"
    }
   },
   {
@@ -25,6 +30,11 @@
     "file": "AH64D.pc.bin",
     "bytes": 1036832,
     "sha256": "f6f1dfad78fb14fa26a4c8cf2cca67e30117cc926b9a5e07ffc75c5c9e25f0c9"
+   },
+   "quest": {
+    "file": "AH64D.q8.bin",
+    "bytes": 518432,
+    "sha256": "b14dd5ef38df7b1cc6be3ee5862042b7f0832d518d6a8c1d107d28c667d3a8c3"
    }
   },
   {
@@ -38,6 +48,11 @@
     "file": "AKM.pc.bin",
     "bytes": 1036832,
     "sha256": "da9832d8f554893ce441ec78ae17216b3ab155990d6b2cf14b24a4079629917c"
+   },
+   "quest": {
+    "file": "AKM.q8.bin",
+    "bytes": 518432,
+    "sha256": "76f173db53cd430e40ba7bfc109f56bab0ceeb29bfff8f9e31d93e203b324385"
    }
   },
   {
@@ -51,6 +66,11 @@
     "file": "F15C.pc.bin",
     "bytes": 1036832,
     "sha256": "d4e44f12b12d1fb260e3a55a5642403a522d2485122a75f6f71250f7770edb34"
+   },
+   "quest": {
+    "file": "F15C.q8.bin",
+    "bytes": 518432,
+    "sha256": "06261b0478e9cca149db52f9e8d2993b337089402a8afcdf07a3f5129214a964"
    }
   },
   {
@@ -64,6 +84,11 @@
     "file": "F22.pc.bin",
     "bytes": 1036832,
     "sha256": "25a1148d9d49a46253fbfe0dd71838854bdb2004af2ea0514c9f6ada94597736"
+   },
+   "quest": {
+    "file": "F22.q8.bin",
+    "bytes": 518432,
+    "sha256": "374745ccd1dbd8df6c1eb01093eda884a93d8f5701662b135ad0962bd9d4959f"
    }
   },
   {
@@ -77,6 +102,11 @@
     "file": "FN15.pc.bin",
     "bytes": 1036832,
     "sha256": "27e74300b41b5f3724d3be73374faaacc74a968ab17d420d18c148091023168d"
+   },
+   "quest": {
+    "file": "FN15.q8.bin",
+    "bytes": 518432,
+    "sha256": "f5621876b27f0ccbd32d3eec97ccaf070cb9f9a781c2cc50cb534394fff64316"
    }
   },
   {
@@ -90,6 +120,11 @@
     "file": "G3.pc.bin",
     "bytes": 1036832,
     "sha256": "11cb549d611428791de26d4c7cc34e0de09cb4cf88ded240c32d88cbcd35efbd"
+   },
+   "quest": {
+    "file": "G3.q8.bin",
+    "bytes": 518432,
+    "sha256": "c99b86ff0c0b802f4fcfc7b10020a2229cf72b09edb1b9f9c76666ae41bdaefa"
    }
   },
   {
@@ -103,6 +138,11 @@
     "file": "IRLaser.pc.bin",
     "bytes": 1036832,
     "sha256": "1c6eb66c50bff180e7c20abf3d94f230c6e1c619f1c2184f9b77d7668654ad57"
+   },
+   "quest": {
+    "file": "IRLaser.q8.bin",
+    "bytes": 518432,
+    "sha256": "fae0480337b15b64cbcef7888e319f978525c1b1bb7093454a2e1c29d151b493"
    }
   },
   {
@@ -116,6 +156,11 @@
     "file": "J20.pc.bin",
     "bytes": 1036832,
     "sha256": "53afec6fdef55590ee9a9a6f2b9efd6cbe6a0df70e0c0fef9de40a4becb04c05"
+   },
+   "quest": {
+    "file": "J20.q8.bin",
+    "bytes": 518432,
+    "sha256": "3da1ddd7f72d0838c6b5a081cec9b231c7fa4e7020785b3ba7c7e196da12fcf2"
    }
   },
   {
@@ -129,6 +174,11 @@
     "file": "LWLM01.pc.bin",
     "bytes": 1036832,
     "sha256": "308247965f6b9926173363d06d10d6561059abbdc9b36e0cf7bfe56b800f34ed"
+   },
+   "quest": {
+    "file": "LWLM01.q8.bin",
+    "bytes": 518432,
+    "sha256": "6b11fb45c7a8b2ddfeb424d8e79feb4204fb8e476d2cf9e1b006e3f08760a723"
    }
   },
   {
@@ -142,6 +192,11 @@
     "file": "M200.pc.bin",
     "bytes": 1036832,
     "sha256": "21532c8bbc84e7836616e081bcd8f03febed18fac60ad644405344e5ff3cafc3"
+   },
+   "quest": {
+    "file": "M200.q8.bin",
+    "bytes": 518432,
+    "sha256": "4c6b3cc433e15a28d28ea7dcf442902aebe8966b2824cb48f3c71f96e9c520f4"
    }
   },
   {
@@ -155,6 +210,11 @@
     "file": "MPX.pc.bin",
     "bytes": 1036832,
     "sha256": "f27db28006f8641cce54ffbc70fcfdfedd7e6395dc6cd0e72d514687affc5f15"
+   },
+   "quest": {
+    "file": "MPX.q8.bin",
+    "bytes": 518432,
+    "sha256": "e08ae71097a88a68d212ec29180596483971aa636953b107f8ab8640534d24c2"
    }
   },
   {
@@ -168,6 +228,11 @@
     "file": "MiG29.pc.bin",
     "bytes": 1036832,
     "sha256": "f5d52eee91771c97a6045d5e6a5d60454395bce1a2ed60c5831db587f622b031"
+   },
+   "quest": {
+    "file": "MiG29.q8.bin",
+    "bytes": 518432,
+    "sha256": "8b488b2c063a410db4031aef4b17799deb653b4f50c064a70e881c34cd424206"
    }
   },
   {
@@ -181,6 +246,11 @@
     "file": "P320AXG.pc.bin",
     "bytes": 1036832,
     "sha256": "cde3843bdca2ef7b80098de20c85124b516e9ce6ccff35b6f8ae3cdc50823201"
+   },
+   "quest": {
+    "file": "P320AXG.q8.bin",
+    "bytes": 518432,
+    "sha256": "7409388807f23a010c83744dc0d2fbc95908eba95a72f964aedc305c08636d54"
    }
   },
   {
@@ -194,6 +264,11 @@
     "file": "PKM.pc.bin",
     "bytes": 1036832,
     "sha256": "3cc844ad6fef1e393e08080d9dcccdd0c5c4d76c564e54ba0e6c96d30c08c62f"
+   },
+   "quest": {
+    "file": "PKM.q8.bin",
+    "bytes": 518432,
+    "sha256": "a8cf1cc68914e9bae210e97fa46f7270c64b1c811b877555755b558bcb714ffe"
    }
   },
   {
@@ -207,6 +282,11 @@
     "file": "RPG7.pc.bin",
     "bytes": 1036832,
     "sha256": "265f03d312cbe104c518049d8bcaae1c5097c9d9d1f400b324b7ec18fca4d539"
+   },
+   "quest": {
+    "file": "RPG7.q8.bin",
+    "bytes": 518432,
+    "sha256": "906afaa10d0f61a783a6ea082f920386ee4837cc219363dd9872a2e9c19e1bcb"
    }
   },
   {
@@ -220,6 +300,11 @@
     "file": "S1.pc.bin",
     "bytes": 1036832,
     "sha256": "3a776829c92aecb620863b5b0da9ad05cab9341f31557e30381437f3c9a2895b"
+   },
+   "quest": {
+    "file": "S1.q8.bin",
+    "bytes": 518432,
+    "sha256": "b96384a214d9ca7fb88bb517f806a7f144acc96fca5eba3fc74f91c9404f1ac1"
    }
   },
   {
@@ -233,6 +318,11 @@
     "file": "SCARH.pc.bin",
     "bytes": 1036832,
     "sha256": "6339c14879a48cd170348d6d60a18f951cde5978f0daf74395170f2a3bc1a28d"
+   },
+   "quest": {
+    "file": "SCARH.q8.bin",
+    "bytes": 518432,
+    "sha256": "d6a3561e20d996a69ce529be47fd77bf513decda82d696e68e14bed5014b6060"
    }
   },
   {
@@ -246,6 +336,11 @@
     "file": "SIG_P320.pc.bin",
     "bytes": 1036832,
     "sha256": "eb1cc62bced8e9ea54cbdcae17ec555fa48604a5c7c8905f018821cb710bbe90"
+   },
+   "quest": {
+    "file": "SIG_P320.q8.bin",
+    "bytes": 518432,
+    "sha256": "3431ab40d7c0becb47b616fbfe72beb59fb5852608b7443b0a9153118728d468"
    }
   },
   {
@@ -259,6 +354,11 @@
     "file": "Salewa.pc.bin",
     "bytes": 1036832,
     "sha256": "cd638a0006d62901952449c28244b1406ac07948c01bbf3019574f8ad98f43f2"
+   },
+   "quest": {
+    "file": "Salewa.q8.bin",
+    "bytes": 518432,
+    "sha256": "43b92365ab9e2f6f2dc9ee87491c540ac4b56c06adf869aa0169e8a36bed8fa6"
    }
   },
   {
@@ -272,6 +372,11 @@
     "file": "Stinger.pc.bin",
     "bytes": 1036832,
     "sha256": "0d5c511efb45f63daf41d2f1969d906dfc4dd1ed6de094924302587815a18857"
+   },
+   "quest": {
+    "file": "Stinger.q8.bin",
+    "bytes": 518432,
+    "sha256": "18ed7071c9c2426b43eae2c5532998e1590c678d7b7a69683fad77c08ab1f687"
    }
   },
   {
@@ -285,6 +390,11 @@
     "file": "T89.pc.bin",
     "bytes": 1036832,
     "sha256": "f72923a4919c911d2ca33c0878543db4a86b7dd325da84b24f78ab89eb26d162"
+   },
+   "quest": {
+    "file": "T89.q8.bin",
+    "bytes": 518432,
+    "sha256": "03ba486e03206be759dbd58f1bb53edeefdf80d51e262009470509e5ce7dadd3"
    }
   },
   {
@@ -298,7 +408,34 @@
     "file": "T89FV.pc.bin",
     "bytes": 1036832,
     "sha256": "4c2a933ffd1ab3fc13e18d5960a846b3177ecaf3de511e11a841a9671d119beb"
+   },
+   "quest": {
+    "file": "T89FV.q8.bin",
+    "bytes": 518432,
+    "sha256": "a880166e33c074513e02c427247b9d6f7e1c8964c23aa833b1b198691746fb96"
    }
+  }
+ ],
+ "videos": [
+  {
+   "file": "intro_A10.mp4",
+   "bytes": 10683192
+  },
+  {
+   "file": "intro_AH64D.mp4",
+   "bytes": 7417120
+  },
+  {
+   "file": "intro_F15C.mp4",
+   "bytes": 7852163
+  },
+  {
+   "file": "intro_F22.mp4",
+   "bytes": 8109697
+  },
+  {
+   "file": "intro_MiG29.mp4",
+   "bytes": 7360425
   }
  ]
 }
