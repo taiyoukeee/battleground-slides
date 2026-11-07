@@ -10,3 +10,7 @@ VRChat の String Loading（`*.github.io` は許可ドメイン）で取得し�
 ## 収録
 
 `slides/index.json` に一覧（ファイル名・サイズ・SHA-256）があります。
+
+## 紹介動画
+
+`video/intro_<名前>.mp4` — 1080p30 H.264、音声なし、faststart。VRChat の Unity 版ビデオプレイヤーで直接再生します（GitHub Pages は動画の許可リスト外のため Allow Untrusted URLs が必要）。
