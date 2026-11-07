@@ -1,0 +1,28 @@
+{
+ "slides": [
+  {
+   "file": "AKM.pc.bin",
+   "bytes": 1036832
+  },
+  {
+   "file": "AKM.y2k.bin",
+   "bytes": 617712
+  },
+  {
+   "file": "MiG29.pc.bin",
+   "bytes": 1036832
+  },
+  {
+   "file": "MiG29.y2k.bin",
+   "bytes": 617712
+  },
+  {
+   "file": "V_S1_ru.pc.bin",
+   "bytes": 1036832
+  },
+  {
+   "file": "V_S1_ru.y2k.bin",
+   "bytes": 617712
+  }
+ ]
+}
