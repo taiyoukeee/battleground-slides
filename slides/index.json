@@ -419,23 +419,23 @@
  "videos": [
   {
    "file": "intro_A10.mp4",
-   "bytes": 10683192
+   "bytes": 10555861
   },
   {
    "file": "intro_AH64D.mp4",
-   "bytes": 7417120
+   "bytes": 6257165
   },
   {
    "file": "intro_F15C.mp4",
-   "bytes": 7852163
+   "bytes": 7814703
   },
   {
    "file": "intro_F22.mp4",
-   "bytes": 8109697
+   "bytes": 6312128
   },
   {
    "file": "intro_MiG29.mp4",
-   "bytes": 7360425
+   "bytes": 6766883
   }
  ]
 }
