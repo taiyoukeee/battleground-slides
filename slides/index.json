@@ -1,28 +1,304 @@
 {
+ "version": 1,
  "slides": [
   {
-   "file": "AKM.pc.bin",
-   "bytes": 1036832
+   "name": "A10",
+   "lite": {
+    "file": "A10.y2k.bin",
+    "bytes": 617712,
+    "sha256": "17f51fcf3501863efd5ffd1e208e086f45dec4b271d2a9c1fa04f21896cc8208"
+   },
+   "exact": {
+    "file": "A10.pc.bin",
+    "bytes": 1036832,
+    "sha256": "f7aeb2166d01580ef18a7f878d28ed0645aae895b24c101b39b691d645585c6f"
+   }
   },
   {
-   "file": "AKM.y2k.bin",
-   "bytes": 617712
+   "name": "AH64D",
+   "lite": {
+    "file": "AH64D.y2k.bin",
+    "bytes": 617712,
+    "sha256": "9f28fd58ab80fc9df9b016ba6604d254ffabb719ec1ff3b894d3618b2add3326"
+   },
+   "exact": {
+    "file": "AH64D.pc.bin",
+    "bytes": 1036832,
+    "sha256": "f6f1dfad78fb14fa26a4c8cf2cca67e30117cc926b9a5e07ffc75c5c9e25f0c9"
+   }
   },
   {
-   "file": "MiG29.pc.bin",
-   "bytes": 1036832
+   "name": "AKM",
+   "lite": {
+    "file": "AKM.y2k.bin",
+    "bytes": 617712,
+    "sha256": "5734ff320fd020b468fca2c09ac4289e602bb1cc8881287fe5ccac3c1789a146"
+   },
+   "exact": {
+    "file": "AKM.pc.bin",
+    "bytes": 1036832,
+    "sha256": "da9832d8f554893ce441ec78ae17216b3ab155990d6b2cf14b24a4079629917c"
+   }
   },
   {
-   "file": "MiG29.y2k.bin",
-   "bytes": 617712
+   "name": "F15C",
+   "lite": {
+    "file": "F15C.y2k.bin",
+    "bytes": 617712,
+    "sha256": "c68befbc7d9f0006f53e119defee5dad316e73ce3bc0f63ffc5df75da7b03b2d"
+   },
+   "exact": {
+    "file": "F15C.pc.bin",
+    "bytes": 1036832,
+    "sha256": "d4e44f12b12d1fb260e3a55a5642403a522d2485122a75f6f71250f7770edb34"
+   }
   },
   {
-   "file": "V_S1_ru.pc.bin",
-   "bytes": 1036832
+   "name": "F22",
+   "lite": {
+    "file": "F22.y2k.bin",
+    "bytes": 617712,
+    "sha256": "857e9f696fc4b74723d1e9ac309a013e44177614b6856365bc7a1b43ba335596"
+   },
+   "exact": {
+    "file": "F22.pc.bin",
+    "bytes": 1036832,
+    "sha256": "25a1148d9d49a46253fbfe0dd71838854bdb2004af2ea0514c9f6ada94597736"
+   }
   },
   {
-   "file": "V_S1_ru.y2k.bin",
-   "bytes": 617712
+   "name": "FN15",
+   "lite": {
+    "file": "FN15.y2k.bin",
+    "bytes": 617712,
+    "sha256": "0afa7ef4b7314013bed4eed5e1600df8772e27de28040befc7b4225e51385200"
+   },
+   "exact": {
+    "file": "FN15.pc.bin",
+    "bytes": 1036832,
+    "sha256": "27e74300b41b5f3724d3be73374faaacc74a968ab17d420d18c148091023168d"
+   }
+  },
+  {
+   "name": "G3",
+   "lite": {
+    "file": "G3.y2k.bin",
+    "bytes": 617712,
+    "sha256": "9959698b44b4216c8dde053cc3296e57f52d6469351d661159fae734c124777e"
+   },
+   "exact": {
+    "file": "G3.pc.bin",
+    "bytes": 1036832,
+    "sha256": "11cb549d611428791de26d4c7cc34e0de09cb4cf88ded240c32d88cbcd35efbd"
+   }
+  },
+  {
+   "name": "IRLaser",
+   "lite": {
+    "file": "IRLaser.y2k.bin",
+    "bytes": 617712,
+    "sha256": "fa762f930cc9e3ec2b1b4ec8f871b4cbb3c16016a11296ddc5d83dd4cc4fc8d4"
+   },
+   "exact": {
+    "file": "IRLaser.pc.bin",
+    "bytes": 1036832,
+    "sha256": "1c6eb66c50bff180e7c20abf3d94f230c6e1c619f1c2184f9b77d7668654ad57"
+   }
+  },
+  {
+   "name": "J20",
+   "lite": {
+    "file": "J20.y2k.bin",
+    "bytes": 617712,
+    "sha256": "73f3700f37e2976647bad30ff9eee1ba94dec49c2fb6d0e0c4011ff8e1ce520d"
+   },
+   "exact": {
+    "file": "J20.pc.bin",
+    "bytes": 1036832,
+    "sha256": "53afec6fdef55590ee9a9a6f2b9efd6cbe6a0df70e0c0fef9de40a4becb04c05"
+   }
+  },
+  {
+   "name": "LWLM01",
+   "lite": {
+    "file": "LWLM01.y2k.bin",
+    "bytes": 617712,
+    "sha256": "8447d2504c5d599cf5347912dc20579a6400ebaadecb501e3decaa91bfefd12d"
+   },
+   "exact": {
+    "file": "LWLM01.pc.bin",
+    "bytes": 1036832,
+    "sha256": "308247965f6b9926173363d06d10d6561059abbdc9b36e0cf7bfe56b800f34ed"
+   }
+  },
+  {
+   "name": "M200",
+   "lite": {
+    "file": "M200.y2k.bin",
+    "bytes": 617712,
+    "sha256": "db6f43724e21a795d43669cca462074e5e0f5d833ccee8bf355438155370a9b1"
+   },
+   "exact": {
+    "file": "M200.pc.bin",
+    "bytes": 1036832,
+    "sha256": "21532c8bbc84e7836616e081bcd8f03febed18fac60ad644405344e5ff3cafc3"
+   }
+  },
+  {
+   "name": "MPX",
+   "lite": {
+    "file": "MPX.y2k.bin",
+    "bytes": 617712,
+    "sha256": "41a044b4bb6de46d4715a617973453ef054ebf6ee6ad477ed7c7d0b8149630ac"
+   },
+   "exact": {
+    "file": "MPX.pc.bin",
+    "bytes": 1036832,
+    "sha256": "f27db28006f8641cce54ffbc70fcfdfedd7e6395dc6cd0e72d514687affc5f15"
+   }
+  },
+  {
+   "name": "MiG29",
+   "lite": {
+    "file": "MiG29.y2k.bin",
+    "bytes": 617712,
+    "sha256": "c0a40db8e364407d7f74cbd3e9de602dccfa94b6c8e6b999049deb1117d413e7"
+   },
+   "exact": {
+    "file": "MiG29.pc.bin",
+    "bytes": 1036832,
+    "sha256": "f5d52eee91771c97a6045d5e6a5d60454395bce1a2ed60c5831db587f622b031"
+   }
+  },
+  {
+   "name": "P320AXG",
+   "lite": {
+    "file": "P320AXG.y2k.bin",
+    "bytes": 617712,
+    "sha256": "91813e55c3158b4f00bc5cab525d44da8df20a7d55713890fedd782e1668ba89"
+   },
+   "exact": {
+    "file": "P320AXG.pc.bin",
+    "bytes": 1036832,
+    "sha256": "cde3843bdca2ef7b80098de20c85124b516e9ce6ccff35b6f8ae3cdc50823201"
+   }
+  },
+  {
+   "name": "PKM",
+   "lite": {
+    "file": "PKM.y2k.bin",
+    "bytes": 617712,
+    "sha256": "16a849e7c3f08809fc71d7f9cfc381e46e7ad4c7423ef8de242baeb13b24c958"
+   },
+   "exact": {
+    "file": "PKM.pc.bin",
+    "bytes": 1036832,
+    "sha256": "3cc844ad6fef1e393e08080d9dcccdd0c5c4d76c564e54ba0e6c96d30c08c62f"
+   }
+  },
+  {
+   "name": "RPG7",
+   "lite": {
+    "file": "RPG7.y2k.bin",
+    "bytes": 617712,
+    "sha256": "43ba908d86340af3b89ade19376344ceda1a32044a16662cea87bcdba05b1ad9"
+   },
+   "exact": {
+    "file": "RPG7.pc.bin",
+    "bytes": 1036832,
+    "sha256": "265f03d312cbe104c518049d8bcaae1c5097c9d9d1f400b324b7ec18fca4d539"
+   }
+  },
+  {
+   "name": "S1",
+   "lite": {
+    "file": "S1.y2k.bin",
+    "bytes": 617712,
+    "sha256": "b3067d42d0442eeaa84f7d898746a94420b7cd870b2a66964935bcb2349121b8"
+   },
+   "exact": {
+    "file": "S1.pc.bin",
+    "bytes": 1036832,
+    "sha256": "3a776829c92aecb620863b5b0da9ad05cab9341f31557e30381437f3c9a2895b"
+   }
+  },
+  {
+   "name": "SCARH",
+   "lite": {
+    "file": "SCARH.y2k.bin",
+    "bytes": 617712,
+    "sha256": "d3e3513ebfdb72343577c20311af3e0ee14f13400889531a1d41c079d3763729"
+   },
+   "exact": {
+    "file": "SCARH.pc.bin",
+    "bytes": 1036832,
+    "sha256": "6339c14879a48cd170348d6d60a18f951cde5978f0daf74395170f2a3bc1a28d"
+   }
+  },
+  {
+   "name": "SIG_P320",
+   "lite": {
+    "file": "SIG_P320.y2k.bin",
+    "bytes": 617712,
+    "sha256": "b3eab77ccee6170ab271b5f66baf99605f134b7ca9b50b731d94bc0a9c367ca9"
+   },
+   "exact": {
+    "file": "SIG_P320.pc.bin",
+    "bytes": 1036832,
+    "sha256": "eb1cc62bced8e9ea54cbdcae17ec555fa48604a5c7c8905f018821cb710bbe90"
+   }
+  },
+  {
+   "name": "Salewa",
+   "lite": {
+    "file": "Salewa.y2k.bin",
+    "bytes": 617712,
+    "sha256": "7dcf0905c3f9e1192f169f36ad4ef8e5047b3a432a78415a58be502e8b3215e7"
+   },
+   "exact": {
+    "file": "Salewa.pc.bin",
+    "bytes": 1036832,
+    "sha256": "cd638a0006d62901952449c28244b1406ac07948c01bbf3019574f8ad98f43f2"
+   }
+  },
+  {
+   "name": "Stinger",
+   "lite": {
+    "file": "Stinger.y2k.bin",
+    "bytes": 617712,
+    "sha256": "b266633dcafe6983bf8dfe05d7e1ee4b0e6c8669dde7fe89189c59997b8a0d30"
+   },
+   "exact": {
+    "file": "Stinger.pc.bin",
+    "bytes": 1036832,
+    "sha256": "0d5c511efb45f63daf41d2f1969d906dfc4dd1ed6de094924302587815a18857"
+   }
+  },
+  {
+   "name": "T89",
+   "lite": {
+    "file": "T89.y2k.bin",
+    "bytes": 617712,
+    "sha256": "88087a8456bb58448fa08055fee6f2138c436a664689893ff670b96c84d81f8e"
+   },
+   "exact": {
+    "file": "T89.pc.bin",
+    "bytes": 1036832,
+    "sha256": "f72923a4919c911d2ca33c0878543db4a86b7dd325da84b24f78ab89eb26d162"
+   }
+  },
+  {
+   "name": "T89FV",
+   "lite": {
+    "file": "T89FV.y2k.bin",
+    "bytes": 617712,
+    "sha256": "b4c5b3c01901999dbd72abe28080c90bbaba6cbbf294c4046af9b7a9abe6e9d0"
+   },
+   "exact": {
+    "file": "T89FV.pc.bin",
+    "bytes": 1036832,
+    "sha256": "4c2a933ffd1ab3fc13e18d5960a846b3177ecaf3de511e11a841a9671d119beb"
+   }
   }
  ]
 }

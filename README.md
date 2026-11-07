@@ -6,3 +6,7 @@ BattleGround（VRChat ワールド）のロードアウトスライドを、ワ�
 - `slides/<name>.pc.bin` — PC 用 DXT1 そのまま版（ワールドに焼き込んだ画像と同一）。
 
 VRChat の String Loading（`*.github.io` は許可ドメイン）で取得します。
+
+## 収録
+
+`slides/index.json` に一覧（ファイル名・サイズ・SHA-256）があります。
